@@ -1,10 +1,10 @@
 ## 🧑‍💻 My name is Daniel Jeong!
 
-Software Engieer and Architect at LG CNS
-building data pipelines and architecturing data platforms 
-community member for Writing programer
-community member for git grass seeding 
-Writing and translation IT books in Korean
+- Software Engieer and Architect at LG CNS
+- building data pipelines and architecturing data platforms 
+- community member for Writing programer
+- community member for git grass seeding 
+- Writing and translation IT books in Korean
 
 
 ## 📈Stats
