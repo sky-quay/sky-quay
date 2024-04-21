@@ -8,4 +8,4 @@ Writing and translation IT books in Korean
 
 
 ## 📈Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewBean0312&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky-quay&show_icons=true&theme=radical)
